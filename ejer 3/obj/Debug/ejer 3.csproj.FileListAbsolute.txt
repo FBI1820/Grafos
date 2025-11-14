@@ -1,7 +1,0 @@
-C:\Users\sarai\Music\ejer 3\ejer 3\bin\Debug\ejer 3.exe.config
-C:\Users\sarai\Music\ejer 3\ejer 3\bin\Debug\ejer 3.exe
-C:\Users\sarai\Music\ejer 3\ejer 3\bin\Debug\ejer 3.pdb
-C:\Users\sarai\Music\ejer 3\ejer 3\obj\Debug\ejer 3.csproj.AssemblyReference.cache
-C:\Users\sarai\Music\ejer 3\ejer 3\obj\Debug\ejer 3.csproj.CoreCompileInputs.cache
-C:\Users\sarai\Music\ejer 3\ejer 3\obj\Debug\ejer 3.exe
-C:\Users\sarai\Music\ejer 3\ejer 3\obj\Debug\ejer 3.pdb
